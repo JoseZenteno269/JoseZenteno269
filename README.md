@@ -31,4 +31,5 @@ Actualmente continúo aprendiendo por mi cuenta para ampliar mis conocimientos e
 Considero que el aprendizaje en programación es un proceso continuo. Disfruto enfrentar nuevos desafíos, adquirir conocimientos de forma constante y aplicarlos en proyectos que me permitan seguir creciendo como desarrollador.
 
 Linkedin: www.linkedin.com/in/jose-zenteno-357813235
+
 Mail: zentenojose123456@gmail.com
