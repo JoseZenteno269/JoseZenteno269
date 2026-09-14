@@ -28,7 +28,7 @@ Proyectos personales: Replicando sistemas completos en arquitecturas multicapa p
 
 Contacto y Enlaces
 
-LinkedIn: linkedin.com/in/jose-zenteno-357813235
+LinkedIn: www.linkedin.com/in/jose-zenteno-357813235
 
 GitHub: github.com/JoseZenteno269
 
