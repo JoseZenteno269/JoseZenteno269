@@ -30,7 +30,7 @@ Contacto y Enlaces
 
 LinkedIn: www.linkedin.com/in/jose-zenteno-357813235
 
-GitHub: github.com/JoseZenteno269
+GitHub: [github.com/JoseZenteno269](https://github.com/JoseZenteno269)
 
 Portfolio: https://josezenteno269.github.io/
 
