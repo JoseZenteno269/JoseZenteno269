@@ -6,6 +6,8 @@ Cuento con formación previa como Técnico Electromecánico, lo que consolidó m
 
 💻 Lenguajes y Bases de Datos
 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 Backend: C#, C++
 
 Bases de datos: SQL Server, SQL (consultas avanzadas, JOINs, agregaciones, subconsultas)
