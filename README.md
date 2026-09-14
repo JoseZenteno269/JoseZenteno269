@@ -26,7 +26,7 @@ Java y MySQL: Ampliando mi ecosistema backend para comparar diferentes tecnolog�
 
 Contacto y Enlaces
 
-LinkedIn: [José Zenteno](www.linkedin.com/in/jose-zenteno-357813235)
+LinkedIn: [José Zenteno](https://www.linkedin.com/in/jose-zenteno-357813235/)
 
 GitHub: [github.com/JoseZenteno269](https://github.com/JoseZenteno269)
 
