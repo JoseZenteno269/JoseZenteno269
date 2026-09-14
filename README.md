@@ -32,6 +32,6 @@ LinkedIn: linkedin.com/in/jose-zenteno-357813235
 
 GitHub: github.com/JoseZenteno269
 
-Portfolio: josezenteno269.github.io
+Portfolio: https://josezenteno269.github.io/
 
 Email: zentenojose123456@gmail.com
