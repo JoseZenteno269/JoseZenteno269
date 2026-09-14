@@ -24,14 +24,12 @@ Control de versiones: Git, GitHub
 
 Java y MySQL: Ampliando mi ecosistema backend para comparar diferentes tecnologías y motores relacionales frente a los mismos patrones de diseño.
 
-Proyectos personales: Replicando sistemas completos en arquitecturas multicapa para fortalecer la lógica de negocio.
-
 Contacto y Enlaces
 
-LinkedIn: www.linkedin.com/in/jose-zenteno-357813235
+LinkedIn: [José Zenteno](www.linkedin.com/in/jose-zenteno-357813235)
 
 GitHub: [github.com/JoseZenteno269](https://github.com/JoseZenteno269)
 
-Portfolio: https://josezenteno269.github.io/
+Portfolio: [josezenteno269.github.io](https://josezenteno269.github.io/)
 
 Email: zentenojose123456@gmail.com
