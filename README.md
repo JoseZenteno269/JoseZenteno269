@@ -1,47 +1,37 @@
 # Hola, soy José Zenteno 👋
 
-Soy estudiante de la Tecnicatura Universitaria en Programación de la UTN General Pacheco. Me apasiona el desarrollo de software y disfruto aprender nuevas tecnologías para mejorar mis habilidades como desarrollador.
+Soy estudiante de la Tecnicatura Universitaria en Programación en la UTN General Pacheco, enfocado en el desarrollo Backend y en búsqueda de mi primera oportunidad profesional en el sector IT.
 
-Mi objetivo es desarrollarme profesionalmente como Backend Developer, especializándome en tecnologías .NET, diseño de APIs REST y arquitectura de aplicaciones, mientras continúo fortaleciendo mis conocimientos en desarrollo web y bases de datos.
+Cuento con formación previa como Técnico Electromecánico, lo que consolidó mi forma de trabajar: ante un problema complejo suelo investigar, dividirlo en partes y analizar cada componente de manera ordenada antes de implementar la solución. Utilizo la inteligencia artificial como un asistente de aprendizaje y productividad para comprender a fondo conceptos técnicos y optimizar mi flujo de trabajo.
 
-💻 Lenguajes
+💻 Lenguajes y Bases de Datos
 
-C++
+Backend: C#, C++
 
-C#
+Bases de datos: SQL Server, SQL (consultas avanzadas, JOINs, agregaciones, subconsultas)
 
-SQL
+Web / Complemento: JavaScript, HTML5, CSS3
 
-HTML
+🛠 Tecnologías y Herramientas
 
-CSS
+Frameworks y Arquitectura: .NET, ASP.NET Core Web API, APIs REST (Controllers, DTOs, endpoints, JSON)
 
-JavaScript
+Acceso a datos: ADO.NET, conexiones relacionales
 
-🛠 Tecnologías
+Control de versiones: Git, GitHub
 
-ASP.NET Core
+📚 Actualmente incorporando
 
-SQL Server
+Java y MySQL: Ampliando mi ecosistema backend para comparar diferentes tecnologías y motores relacionales frente a los mismos patrones de diseño.
 
-GitHub
+Proyectos personales: Replicando sistemas completos en arquitecturas multicapa para fortalecer la lógica de negocio.
 
-📚 Actualmente aprendiendo
+Contacto y Enlaces
 
-ASP.NET Core Web API
+LinkedIn: linkedin.com/in/jose-zenteno-357813235
 
-JavaScript
+GitHub: github.com/JoseZenteno269
 
-APIs REST
+Portfolio: josezenteno269.github.io
 
-Git
-
-Buenas prácticas de desarrollo
-
-Actualmente continúo aprendiendo por mi cuenta para ampliar mis conocimientos en desarrollo backend con ASP.NET Core Web API y APIs REST. También estoy fortaleciendo mis bases en JavaScript y explorando herramientas de inteligencia artificial aplicadas al desarrollo de software para mejorar mi proceso de aprendizaje y productividad.
-
-Considero que el aprendizaje en programación es un proceso continuo. Disfruto enfrentar nuevos desafíos, adquirir conocimientos de forma constante y aplicarlos en proyectos que me permitan seguir creciendo como desarrollador.
-
-Linkedin: www.linkedin.com/in/jose-zenteno-357813235
-
-Mail: zentenojose123456@gmail.com
+Email: zentenojose123456@gmail.com
