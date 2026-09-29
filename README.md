@@ -1,5 +1,16 @@
 ## Hola, soy José Zenteno 👋
 
+mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'darkMode': true, 'background': '#0f0f14', 'primaryColor': '#1c1b29', 'primaryTextColor': '#ffffff', 'lineColor': '#8b5cf6', 'fontFamily': 'monospace' }}}%%
+flowchart LR
+    C[🖥️ CLIENT<br/><small>Fetch / JS</small>] -->|Request| W[⚡ WEB API<br/><small>ASP.NET Core</small>]
+    W -->|DTOs| A[🧠 APPLICATION<br/><small>Business Logic</small>]
+    A -->|ADO.NET| D[(🗄️ DATABASE<br/><small>SQL Server</small>)]
+
+    classDef default fill:#181627,stroke:#2e2a4a,stroke-width:1.5px,color:#fff;
+    classDef db fill:#181627,stroke:#8b5cf6,stroke-width:2px,color:#fff;
+    class D db;
+
 Soy estudiante de la **Tecnicatura Universitaria en Programación en la UTN General Pacheco**, enfocado en el desarrollo **Backend** y en búsqueda de mi primera oportunidad profesional en el sector IT.
 
 Cuento con formación previa como Técnico Electromecánico, lo que consolidó mi forma de trabajar: ante un problema complejo suelo investigar, dividirlo en partes y analizar cada componente de manera ordenada antes de implementar la solución. Utilizo la inteligencia artificial como un asistente de aprendizaje y productividad para comprender a fondo conceptos técnicos y optimizar mi flujo de trabajo.
