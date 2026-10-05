@@ -18,11 +18,11 @@ Cuento con formación previa como Técnico Electromecánico, lo que consolidó m
 ## 🌐 Contacto y Enlaces
 
 <a href="https://linkedin.com/in/jose-zenteno-357813235" target="_blank">
-  <img src="./assets/badges/linkedin.svg" height="35" alt="LinkedIn" />
+  <img src="./Iconos/linkedin.svg" height="35" alt="LinkedIn" />
 </a>
 <a href="https://linkedin.com/in/jose-zenteno-357813235" target="_blank">
-  <img src="./assets/badges/linkedin.svg" height="35" alt="Portfolio" />
+  <img src="./Iconos/linkedin.svg" height="35" alt="Portfolio" />
 </a>
 <a href="https://linkedin.com/in/jose-zenteno-357813235" target="_blank">
-  <img src="./assets/badges/gmail.svg" height="35" alt="Gmail" />
+  <img src="./Iconos/gmail.svg" height="35" alt="Gmail" />
 </a>
