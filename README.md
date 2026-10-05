@@ -6,13 +6,9 @@ Cuento con formación previa como Técnico Electromecánico, lo que consolidó m
 
 ## 💻 Stack Tecnológico
 
-<img src="./Iconos/C++.svg" height="28" alt="C++" /> <img src="./Iconos/csharp.svg" height="28" alt="C#" /> <img src="./Iconos/dotnet.svg" height="28" alt="dotnet" />
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+<img src="./Iconos/C++.svg" height="28" alt="C++" /> <img src="./Iconos/csharp.svg" height="28" alt="C#" /> <img src="./Iconos/dotnet.svg" height="28" alt="dotnet" /> <img src="./Iconos/sql-server.svg" height="28" alt="sql server" /> <img src="./Iconos/C++.svg" height="28" alt="C++" />
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<img src="./Iconos/javascript.svg" height="28" alt="javascript" /> <img src="./Iconos/html5.svg" height="28" alt="html5" /> <img src="./Iconos/css_old.svg" height="28" alt="css3" /> 
 
 *   **Arquitectura y Backend:** ASP.NET Core Web API, diseño de APIs REST (Controllers, DTOs, endpoints, JSON).
 *   **Bases de Datos:** Consultas avanzadas en SQL, JOINs, agregaciones, subconsultas y acceso a datos mediante ADO.NET.
