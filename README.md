@@ -21,9 +21,11 @@ Cuento con formación previa como Técnico Electromecánico, lo que consolidó m
   <img src="./Iconos/linkedin.svg" height="40" alt="LinkedIn" />
 </a>
 
+
 <a href="https://josezenteno269.github.io" target="_blank">
-  <img src="./Iconos/linkedin.svg" height="40" alt="Portfolio" />
+  <img src="./Iconos/Logo.svg" height="40" alt="Portfolio" />
 </a>
+
 
 <a href="mailto:zentenojose123456@gmail.com" target="_blank">
   <img src="./Iconos/gmail.svg" height="40" alt="Gmail" />
