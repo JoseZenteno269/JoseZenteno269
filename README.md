@@ -6,8 +6,7 @@ Cuento con formación previa como Técnico Electromecánico, lo que consolidó m
 
 ## 💻 Stack Tecnológico
 
-<img src="./Iconos/C++.svg" height="28" alt="C++" />
-<img src="./Iconos/csharp.svg" height="28" alt="C#" />
+<img src="./Iconos/C++.svg" height="28" alt="C++" /><img src="./Iconos/csharp.svg" height="28" alt="C#" />
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
