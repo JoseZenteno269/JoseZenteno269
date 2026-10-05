@@ -27,7 +27,7 @@ Cuento con formación previa como Técnico Electromecánico, lo que consolidó m
   <img src="./Iconos/vscode.svg" height="44" alt="VS Code" />&emsp;
   <img src="./Iconos/intellijidea.svg" height="44" alt="IntelliJ IDEA" />&emsp;
   <img src="./Iconos/eclipse.svg" height="44" alt="Eclipse" />&emsp;
-  <img src="./Iconos/antigravity.svg" height="5000" alt="Antigravity" />
+  <img src="./Iconos/antigravity2.svg" height="44" alt="Antigravity" />
 </p>
 
 * Configuración y desarrollo en entornos .NET / C# (Visual Studio y VS Code), ecosistema Java (IntelliJ IDEA y Eclipse) y herramientas de productividad y lógica.
