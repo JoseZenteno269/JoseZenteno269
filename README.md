@@ -66,7 +66,6 @@ Vengo de ser **Técnico Electromecánico**, y eso me dejó una forma de trabajar
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-        <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="JPA" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
       </p>
       <a href="https://github.com/JoseZenteno269/Tienda_Tecnologica_2.0"><b>Ver repositorio →</b></a>
@@ -99,8 +98,6 @@ Vengo de ser **Técnico Electromecánico**, y eso me dejó una forma de trabajar
 <p align="left">
   <img src="./Iconos/dotnet.svg" height="44" alt=".NET" title=".NET" />&emsp;
   <img src="./Iconos/spring.svg" height="44" alt="Spring Boot" title="Spring Boot" />&emsp;
-  <img src="./Iconos/hibernate.svg" height="44" alt="Hibernate / JPA" title="Hibernate / JPA" />&emsp;
-  <img src="./Iconos/maven.svg" height="44" alt="Maven" title="Maven" />&emsp;
   <img src="./Iconos/swagger.svg" height="44" alt="Swagger" title="Swagger / OpenAPI" />&emsp;
   <img src="./Iconos/postman.svg" height="44" alt="Postman" title="Postman" />
 </p>
@@ -166,7 +163,6 @@ Vengo de ser **Técnico Electromecánico**, y eso me dejó una forma de trabajar
   <a href="mailto:zentenojose123456@gmail.com" target="_blank">
     <img src="./Iconos/gmail.svg" height="44" alt="Gmail" title="zentenojose123456@gmail.com" />
   </a>
-  Instagram: completar el usuario y sacar el comentario
   &emsp;&emsp;
   <a href="ttps://www.instagram.com/jose_z2609/" target="_blank">
     <img src="./Iconos/instagram-icon.svg" height="44" alt="Instagram" title="Instagram" />
