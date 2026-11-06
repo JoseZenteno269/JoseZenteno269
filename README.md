@@ -164,7 +164,7 @@ Vengo de ser **Técnico Electromecánico**, y eso me dejó una forma de trabajar
     <img src="./Iconos/gmail.svg" height="44" alt="Gmail" title="zentenojose123456@gmail.com" />
   </a>
   &emsp;&emsp;
-  <a href="ttps://www.instagram.com/jose_z2609/" target="_blank">
+  <a href="https://www.instagram.com/jose_z2609/" target="_blank">
     <img src="./Iconos/instagram-icon.svg" height="44" alt="Instagram" title="Instagram" />
   </a>
  
