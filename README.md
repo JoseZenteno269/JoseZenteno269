@@ -111,10 +111,10 @@ Vengo de ser **Técnico Electromecánico**, y eso me dejó una forma de trabajar
   <img src="./Iconos/sql-server.svg" height="44" alt="SQL Server" title="SQL Server" />&emsp;
   <img src="./Iconos/mysql-icon-dark.svg" height="44" alt="MySQL" title="MySQL" />&emsp;
   <img src="./Iconos/postgresql.svg" height="44" alt="PostgreSQL" title="PostgreSQL" />&emsp;
-  <picture>
+  <!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./Iconos/mongodb-icon-dark.svg" />
     <img src="./Iconos/mongodb-icon-light.svg" height="44" alt="MongoDB" title="MongoDB" />
-  </picture>
+  </picture> -->
 </p>
 
 * **SQL:** JOINs, agregaciones, subconsultas, procedimientos almacenados y triggers.
