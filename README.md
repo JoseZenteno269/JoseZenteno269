@@ -14,6 +14,28 @@ Vengo de ser **Técnico Electromecánico**, y eso me dejó una forma de trabajar
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <a href="https://zunox3d.com.ar">
+        <img src="./assets/zunox3d.png" width="100%" alt="ZUNOX 3D · página de inicio con la impresora 3D animada" />
+      </a>
+      <h3>🖨️ ZUNOX 3D · Gestión de pedidos de impresión 3D</h3>
+      <p>
+        <img src="https://img.shields.io/badge/🟢_En_producción-zunox3d.com.ar-22C55E?style=flat-square" alt="En producción" />
+        <img src="https://img.shields.io/badge/👥_Proyecto_en_equipo-3_personas-334155?style=flat-square" alt="Proyecto en equipo" />
+      </p>
+      <p>Sitio y sistema interno de un emprendimiento real de impresión 3D: catálogo público, panel de administración de clientes y pedidos, link de seguimiento para cada cliente y avisos automáticos por mail. Está online y en uso.</p>
+      <p>
+        <img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 10" />
+        <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/PostgreSQL_·_Supabase-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Docker_·_Render-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/HTML_·_CSS_·_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="HTML CSS JS" />
+      </p>
+      <a href="https://zunox3d.com.ar"><b>🌐 Ver sitio en vivo →</b></a>&emsp;
+      <a href="https://github.com/TechIntoBios/Gestion-3D"><b>Ver repositorio →</b></a>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/JoseZenteno269/SISTEMA-DE-GESTION-TRASNPORTE">
         <img src="https://raw.githubusercontent.com/JoseZenteno269/SISTEMA-DE-GESTION-TRASNPORTE/HEAD/docs/Menu.png" width="100%" alt="Sistema de Gestión de Transporte" />
@@ -71,13 +93,6 @@ Vengo de ser **Técnico Electromecánico**, y eso me dejó una forma de trabajar
       <a href="https://github.com/JoseZenteno269/Tienda_Tecnologica_2.0"><b>Ver repositorio →</b></a>
     </td>
   </tr>
-  <!-- Próximo proyecto (Gestión 3D): copiar un <tr> con dos <td> como los de arriba y completar.
-  <tr>
-    <td width="50%" valign="top">
-      ...
-    </td>
-  </tr>
-  -->
 </table>
 
 ---
