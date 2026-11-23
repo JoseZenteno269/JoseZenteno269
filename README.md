@@ -81,14 +81,16 @@ Vengo de ser **Técnico Electromecánico**, y eso me dejó una forma de trabajar
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/JoseZenteno269/Tienda_Tecnologica_2.0">
-        <img src="./assets/en-desarrollo.svg" width="100%" alt="Tienda Tecnológica 2.0 en desarrollo" />
+        <img src="https://raw.githubusercontent.com/JoseZenteno269/Tienda_Tecnologica_2.0/HEAD/docs/capturas/catalogo.png" width="100%" alt="Tienda Tecnológica 2.0 · catálogo y carrito" />
       </a>
-      <h3>🛠️ Tienda Tecnológica 2.0 <sub><code>en desarrollo</code></sub></h3>
-      <p>La misma tienda, rehecha en el ecosistema Java: API REST con Spring Boot, persistencia con JPA y documentación con Swagger.</p>
+      <h3>☕ Tienda Tecnológica 2.0</h3>
+      <p>La misma tienda, rehecha en Java: API REST con Spring Boot, JDBC con procedimientos almacenados, triggers que ajustan el stock y API documentada con Swagger.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/JDBC-334155?style=flat-square" alt="JDBC" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" />
       </p>
       <a href="https://github.com/JoseZenteno269/Tienda_Tecnologica_2.0"><b>Ver repositorio →</b></a>
     </td>
@@ -133,7 +135,7 @@ Vengo de ser **Técnico Electromecánico**, y eso me dejó una forma de trabajar
 </p>
 
 * **SQL:** JOINs, agregaciones, subconsultas, procedimientos almacenados y triggers.
-* **Acceso a datos:** ADO.NET en .NET y JPA en Java.
+* **Acceso a datos:** ADO.NET en .NET y JDBC en Java.
 
 ## 🛠️ Herramientas e IDEs
 
